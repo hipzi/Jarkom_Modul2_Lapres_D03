@@ -120,8 +120,8 @@
 ## Soal 1 - 3
 <justify>
 <p>1. <b>domain</b> http://semerud03.pw​ </p>
-<p>2. <b>alias</b> http://www.semeruyyy.pw​​ </p>
-<p>3. <b>subdomain</b> http://www.penanjakan.semeruyyy.pw ​ yang diatur DNS-nya pada ​ MALANG ​ dan mengarah ke IP Server ​ PROBOLINGGO </p>
+<p>2. <b>alias</b> http://www.semerud03.pw​​ </p>
+<p>3. <b>subdomain</b> http://www.penanjakan.semerud03.pw ​yang diatur DNS-nya pada ​MALANG ​dan mengarah ke IP Server PROBOLINGGO </p>
 
 <p><b>(malang)</b> buat dns, alias, subdomain</p>
 
@@ -379,13 +379,13 @@
 
 ![11.3](img/11.3.png)
 
-![11.4](img/11.3.png) 
+![11.4](img/11.4.png) 
 
 ![12.1](img/12.1.png)
 
 ![12.2](img/12.2.png)
 
-![13](img/11.3.png)
+![13](img/13.png)
 </justify>
 
 <a id="soal-14-15"></a>
